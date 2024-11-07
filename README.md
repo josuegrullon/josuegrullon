@@ -52,7 +52,6 @@ I am a **Senior Software Engineer** and **Deputy CTO** at Fidecoin.com. With ext
 
 ###### Message Brokers & Protocols:
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
-![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=for-the-badge&logo=mqtt&logoColor=white)&nbsp;
 
 ###### Architecture & Systems:
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23326ce5.svg?style=for-the-badge&logoColor=white)&nbsp;
